@@ -1,0 +1,1 @@
+import{_,c,d as t,e as o,h as n}from"./index-76946c69.js";const s={};function a(r,m){const e=c("el-empty");return t(),o("div",null,[n(e)])}const p=_(s,[["render",a],["__scopeId","data-v-e85f6c7f"]]);export{p as default};
